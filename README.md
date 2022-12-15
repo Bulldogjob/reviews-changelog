@@ -25,3 +25,4 @@ When events are created:
 - Review updated by the author
 - Review removed by the author
 
+`cert` directory contains public key that can be used for checking each JWT signature.
