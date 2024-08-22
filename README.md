@@ -1,5 +1,12 @@
 # Reviews changelog
 
+## Project Status: Archived
+
+We are no longer collecting or updating these reviews, and as a result, this project is now considered **archived** and will not receive further updates.
+
+Thank you to everyone who contributed to this project.
+
+## Description
 This repository contains meta information on each [review posted on Bulldogjob](https://bulldogjob.pl/companies/profiles).
 
 ## Structure
